@@ -7,8 +7,8 @@ on:
     workflow_dispatch:
     
 env:
- GitHubMail: "cirno@cognant.tech"
- GitHubName: "realeu"
+ GitHubMail: "83130977+aidannia@users.noreply.github.com"
+ GitHubName: "aidannia"
  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 jobs:
   build:
