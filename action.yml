@@ -5,8 +5,8 @@ on:
     workflow_dispatch:
     
 env:
- GitHubMail: "cirno@cognant.tech"
- GitHubName: "realeu"
+ GitHubMail: "83130977+aidannia@users.noreply.github.com"
+ GitHubName: "aidannia"
 jobs:
   build:
     runs-on: ubuntu-latest
